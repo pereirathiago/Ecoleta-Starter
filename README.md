@@ -6,10 +6,10 @@
 
 <p align="center">
     <a href="https://rocketseat.com.br">
-        <img alt="feito pela Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+        <img alt="feito pela Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1" target="_blank">
     </a>
     <a href="https://github.com/ThiagoPereira232/Ecoleta-Starter/blob/master/LICENSE">
-        <img alt="License" src=".github/license.svg">
+        <img alt="License" src="https://ik.imagekit.io/pereira/ecoleta_FV3ArfUHA.svg">
     </a>
 </p>
 
