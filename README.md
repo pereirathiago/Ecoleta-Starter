@@ -66,7 +66,7 @@
     # Execultar o server
     npm run start
 ```
-Depois disso abra seu navegador favorito e entr na ulr "http://localhost:3000"
+Depois disso abra seu navegador favorito e entre na URL "http://localhost:3000"
 
 ---
 
