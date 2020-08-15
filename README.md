@@ -21,6 +21,8 @@
 - [Tecnologias Utilizadas](#tecnologias)
 - [Como Execultar o Projeto](#executar)
 - [Como Contribuir](#contribuir)
+- [Quem Administrou?](#administrou)
+- [License](#license)
 
 ---
 
@@ -36,7 +38,7 @@
 
  # :rocket: Tecnologias Utilizadas
 
- O projeto fui desenvolvido em:
+ O projeto foi desenvolvido em:
 
  - HTML
  - CSS
