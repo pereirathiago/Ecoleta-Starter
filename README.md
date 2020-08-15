@@ -92,3 +92,7 @@ Esse projeto foi administrado por **[Mayk Brito](https://github.com/maykbrito)**
 ## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Feito com 💜 por Thiago Pereira
