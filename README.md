@@ -83,7 +83,7 @@ Depois disso abra seu navegador favorito e entr na ulr "http://localhost:3000"
 
 <a id="administrou">
 
-## :world: Quem administrou?
+## :earth_americas: Quem administrou?
 
 Esse projeto foi administrado por **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
 
