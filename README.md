@@ -15,7 +15,7 @@
 
 ---
 
-# Índice
+# :clipboard: Índice
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias)
