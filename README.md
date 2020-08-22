@@ -19,7 +19,7 @@
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias)
-- [Como Execultar o Projeto](#executar)
+- [Como Executar o Projeto](#executar)
 - [Como Contribuir](#contribuir)
 - [Quem Administrou?](#administrou)
 - [License](#license)
@@ -51,7 +51,7 @@
 
  <a id="executar">
 
-# :computer: Como Execultar o projeto
+# :computer: Como Executar o projeto
 
 ```bash
     # Clonar o repositório
@@ -63,7 +63,7 @@
     # Baixar as dependências
     npm install
 
-    # Execultar o server
+    # Executar o server
     npm run start
 ```
 Depois disso abra seu navegador favorito e entre na URL "http://localhost:3000"
