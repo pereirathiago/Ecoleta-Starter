@@ -31,7 +31,9 @@
 # :scroll: Sobre
 
  O <b>Ecoleta</b> é uma aplicação Web para ajudar pessoas a encontrarem pontos de coleta para reciclagem. Cuja qual foi construída durante a trilha <strong>Starter</strong> da <strong>Next Level Week#1</strong>.<br>
-<img alt="Preview" src=".github/preview.png" height="500px">
+<div align="center">
+    <img alt="Preview" src=".github/preview.png" height="500px">
+</div>
 
  ---
 
