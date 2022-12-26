@@ -8,7 +8,7 @@
     <a href="https://rocketseat.com.br" target="_blank">
         <img alt="feito pela Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
     </a>
-    <a href="https://github.com/ThiagoPereira232/Ecoleta-Starter/blob/master/LICENSE">
+    <a href="https://github.com/pereirathiago/Ecoleta-Starter/blob/master/LICENSE">
         <img alt="License" src="https://ik.imagekit.io/pereira/ecoleta_FV3ArfUHA.svg">
     </a>
 </p>
@@ -58,7 +58,7 @@
 
 ```bash
     # Clonar o repositório
-    git clone https://github.com/ThiagoPereira232/ecoleta-starter
+    git clone https://github.com/pereirathiago/ecoleta-starter
 
     # Entrar no projeto
     cd Ecoleta-Starter
